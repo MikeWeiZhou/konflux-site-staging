@@ -1,1 +1,0 @@
-# konflux-site-staging
